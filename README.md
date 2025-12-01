@@ -1,5 +1,23 @@
 # README
 
+## setup
+
+### install uv
+
+https://docs.astral.sh/uv/ こちらを参照
+
+### git clone
+
+当repositoryを `clone` してください。
+
+### uv sync
+
+該当のルートに移動して
+
+```sh
+uv sync
+```
+
 ## how to use
 
 ### 画像のみ、件名に「請求書」を含むメールの添付を保存
